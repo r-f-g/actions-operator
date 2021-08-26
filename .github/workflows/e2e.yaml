@@ -1,7 +1,7 @@
 name: Test Operator Setup
 on:
   push:
-    branches: [main, master]
+    branches: [main, master, test-microstack]
   pull_request:
     branches: [main, master]
 
